@@ -1,13 +1,13 @@
 # learnNext14
 
-https://learn-next14-clifcodes.vercel.app/
+### Link to deployment: https://learn-next14-clifcodes.vercel.app/
 
 Repo for the Next.js 14 learn full stack demo site
 
 After coming back from a short break, I learned that Next.js had undergone some rather large changes. I am refreshing myself with the latest material from the documentation found on nextjs.org/learn
 
 
-# Update
+#### Update
 
 I have decided that since I am doing this repository publicly, I am going to start coding a bit more professionally. 
 
